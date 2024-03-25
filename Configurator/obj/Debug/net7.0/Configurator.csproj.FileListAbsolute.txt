@@ -1,0 +1,12 @@
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/bin/Debug/net7.0/Configurator.deps.json
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/bin/Debug/net7.0/Configurator.dll
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/bin/Debug/net7.0/Configurator.pdb
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.csproj.AssemblyReference.cache
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.AssemblyInfoInputs.cache
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.AssemblyInfo.cs
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.csproj.CoreCompileInputs.cache
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.dll
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/refint/Configurator.dll
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/Configurator.pdb
+/Users/indo.evri.momint/personal-computer-configurator/Configurator/obj/Debug/net7.0/ref/Configurator.dll
